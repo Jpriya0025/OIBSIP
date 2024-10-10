@@ -18,7 +18,8 @@ In this project, the goal is to perform exploratory data analysis (EDA) on a dat
 - **Visualization**: Present insights through bar charts, line plots, and heatmaps.
 - **Recommendations**: Provide actionable recommendations based on the EDA.
 
-
+You can view the Analysis here:
+oibsip_task1/Task1_analysis.ipynb
 ---
 
 ## 2. Predicting House Prices with Linear Regression
