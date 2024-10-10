@@ -20,6 +20,7 @@ In this project, the goal is to perform exploratory data analysis (EDA) on a dat
 
 ### You can view the Analysis here:
 https://github.com/Jpriya0025/OIBSIP/blob/main/oibsip_task1/Task1_analysis.ipynb
+
 ---
 
 ## 2. Predicting House Prices with Linear Regression
@@ -53,6 +54,7 @@ Data cleaning involves fixing or removing incorrect, corrupted, duplicate, or in
 - **Outlier Detection**: Identifying and addressing outliers that may skew analysis or model performance.
 
 ### You can view the Analysis here:
-https://github.com/Jpriya0025/OIBSIP/blob/main/oibsip_task3/Task3_analysis.ipynb
+(https://github.com/Jpriya0025/OIBSIP/blob/main/oibsip_task3/Task3_analysis.ipynb)
+
 ---
 
