@@ -1,5 +1,5 @@
 # OIBSIP 
-# oasis infobyte intership project
+# Oasis Infobyte Intership Project
 
 This repository contains three data analysis and machine learning projects that demonstrate skills in exploratory data analysis (EDA), predictive modeling, and data cleaning. Each project addresses a specific business problem and uses datasets to uncover insights or build models.
 
