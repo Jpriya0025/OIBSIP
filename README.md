@@ -18,7 +18,7 @@ In this project, the goal is to perform exploratory data analysis (EDA) on a dat
 - **Visualization**: Present insights through bar charts, line plots, and heatmaps.
 - **Recommendations**: Provide actionable recommendations based on the EDA.
 
-### Dataset: Retail Sales Dataset
+### Retail Sales Dataset:
 https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
 
 ### You can view the Analysis here:
@@ -39,7 +39,7 @@ The objective of this project is to build a predictive model using linear regres
 - **Model Evaluation**: Evaluate the model's performance using metrics such as Mean Squared Error (MSE) or R-squared.
 - **Visualization**: Create visualizations to illustrate the relationship between the predicted and actual values.
 
-### Dataset: Housing Price Prediction Dataset
+### Housing Price Prediction Dataset:
 https://www.kaggle.com/datasets/ashydv/housing-dataset
 
 ### You can view the Analysis here:
@@ -59,7 +59,7 @@ Data cleaning involves fixing or removing incorrect, corrupted, duplicate, or in
 - **Standardization**: Ensuring consistent formatting across the dataset for accurate analysis.
 - **Outlier Detection**: Identifying and addressing outliers that may skew analysis or model performance.
 
-### Dataset: New York City Airbnb Open Data
+### New York City Airbnb Open Dataset:
 https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/data
 
 ### You can view the Analysis here:
